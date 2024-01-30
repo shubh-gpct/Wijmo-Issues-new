@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#main-div {
+    border: dotted 2px gray;
+    height: 60vh;
+    display: flex;
+    padding: 2%;
+    margin: 2%;
+}
+
+#wijmo-host {
+    border: solid 1px cyan;
+    width: auto;
+}
