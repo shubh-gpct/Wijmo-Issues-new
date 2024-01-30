@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "ES2022",
+        "moduleResolution": "Node",
+        "resolveJsonModule": true,
+        "esModuleInterop": true,
+        // "exactOptionalPropertyTypes": true,
+        // "noImplicitAny": true,
+    }
+}

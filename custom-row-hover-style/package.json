@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@grapecity/wijmo.purejs.all": "^5.20232.939",
+    "css-loader": "^6.9.1",
+    "style-loader": "^3.3.4",
+    "ts-loader": "^9.5.1",
+    "webpack": "^5.90.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
